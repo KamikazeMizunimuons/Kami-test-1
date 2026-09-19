@@ -101,3 +101,4 @@ int main() {
     printf("__\n**Obrigado por Jogar meu SuperTrunfo!**");
 // Espero que o poder da carta n passe o limite dos bytes KKKKKKKKKKKKKKK;
     return 0;
+}
